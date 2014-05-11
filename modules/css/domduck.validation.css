@@ -1,0 +1,13 @@
+.error {
+	position:absolute;
+	width: 20px;
+	height: 20px;
+	background: rgb(196, 43, 43);
+	color: white;
+	top: 0;
+	font-size: 20px;
+	line-height: 22px;
+	text-align: center;
+	cursor: default;
+	left: -30px;
+}
